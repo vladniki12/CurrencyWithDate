@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Delivery Project</string>
+    <string name="currency_title">Курс валют на </string>
+    <string name="date_title">Даты</string>
+    <string name="no_date">Данных на эту дату нет</string>
+    <string name="loading">Загрузка</string>
+    <string name="error">Ошибка</string>
+</resources>
